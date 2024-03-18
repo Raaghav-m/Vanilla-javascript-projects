@@ -1,3 +1,2 @@
 Hey this is me,Raaghav.M
-Here I'm planning to start my web3 Journey with various projects.
-
+Here are various vanilla javascript projects i have done over the course of my study
